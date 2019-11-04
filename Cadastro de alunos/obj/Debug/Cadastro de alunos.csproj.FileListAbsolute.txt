@@ -1,0 +1,200 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.alunoCad.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb
+E:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+E:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+E:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+E:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojAssemblyReference.cache
+E:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.alunoCad.resources
+E:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Properties.Resources.resources
+E:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.GenerateResource.cache
+E:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.CoreCompileInputs.cache
+E:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+E:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb
+F:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+F:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+F:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb
+F:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+F:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+F:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojResolveAssemblyReference.cache
+F:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.alunoCad.resources
+F:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Properties.Resources.resources
+F:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.GenerateResource.Cache
+F:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.escolaCad.resources
+E:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.escolaCad.resources
+E:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.profCad.resources
+E:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.materiaCad.resources
+E:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.periodoCad.resources
+G:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+G:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+G:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb
+G:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+G:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+G:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojResolveAssemblyReference.cache
+G:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.alunoCad.resources
+G:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.escolaCad.resources
+G:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.materiaCad.resources
+G:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.periodoCad.resources
+G:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.profCad.resources
+G:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Properties.Resources.resources
+G:\ETEC - TDS\2° Módulo\DS\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.GenerateResource.Cache
+C:\Users\Angela\Desktop\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+C:\Users\Angela\Desktop\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+C:\Users\Angela\Desktop\Cadastro de alunos\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+C:\Users\Angela\Desktop\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojAssemblyReference.cache
+C:\Users\Angela\Desktop\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.alunoCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.escolaCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.materiaCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.periodoCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.profCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Properties.Resources.resources
+C:\Users\Angela\Desktop\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.GenerateResource.cache
+C:\Users\Angela\Desktop\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Desktop\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+C:\Users\Angela\Desktop\Cadastro de alunos\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb
+C:\Users\Aluno\Desktop\Cadastro de alunos v.2\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+C:\Users\Aluno\Desktop\Cadastro de alunos v.2\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+C:\Users\Aluno\Desktop\Cadastro de alunos v.2\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb
+C:\Users\Aluno\Desktop\Cadastro de alunos v.2\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+C:\Users\Aluno\Desktop\Cadastro de alunos v.2\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+C:\Users\Aluno\Desktop\Cadastro de alunos v.2\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Cadastro de alunos v.2\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.alunoCad.resources
+C:\Users\Aluno\Desktop\Cadastro de alunos v.2\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.escolaCad.resources
+C:\Users\Aluno\Desktop\Cadastro de alunos v.2\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.materiaCad.resources
+C:\Users\Aluno\Desktop\Cadastro de alunos v.2\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.periodoCad.resources
+C:\Users\Aluno\Desktop\Cadastro de alunos v.2\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.profCad.resources
+C:\Users\Aluno\Desktop\Cadastro de alunos v.2\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Cadastro de alunos v.2\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Cadastro de alunos v.2\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Menu.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojAssemblyReference.cache
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.alunoCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.escolaCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.materiaCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Menu.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.periodoCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.profCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Properties.Resources.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.GenerateResource.cache
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+C:\Users\Angela\Desktop\Cadastro de alunos v.4\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojAssemblyReference.cache
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.alunoCad.resources
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.escolaCad.resources
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.materiaCad.resources
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Menu.resources
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.periodoCad.resources
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.profCad.resources
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Properties.Resources.resources
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.GenerateResource.cache
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.CoreCompileInputs.cache
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+E:\ETEC - TDS\2° Módulo\DS\CadAluno\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (22-02 & 01-03)\Cadastro de alunos v.5\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (22-02 & 01-03)\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (22-02 & 01-03)\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (22-02 & 01-03)\Cadastro de alunos v.5\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (22-02 & 01-03)\Cadastro de alunos v.5\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (22-02 & 01-03)\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojResolveAssemblyReference.cache
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (22-02 & 01-03)\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.alunoCad.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (22-02 & 01-03)\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.escolaCad.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (22-02 & 01-03)\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.materiaCad.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (22-02 & 01-03)\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Menu.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (22-02 & 01-03)\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.periodoCad.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (22-02 & 01-03)\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.profCad.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (22-02 & 01-03)\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Properties.Resources.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (22-02 & 01-03)\Cadastro de alunos v.5\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.GenerateResource.Cache
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojAssemblyReference.cache
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.alunoCad.resources
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.escolaCad.resources
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.materiaCad.resources
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Menu.resources
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.periodoCad.resources
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.profCad.resources
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Properties.Resources.resources
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.GenerateResource.cache
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.CoreCompileInputs.cache
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojResolveAssemblyReference.cache
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.alunoCad.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.escolaCad.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.materiaCad.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Menu.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.periodoCad.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.profCad.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Properties.Resources.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.GenerateResource.Cache
+E:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Splash.resources
+F:\ETEC - TDS\2° Módulo\DS\CadAluno (08-03)\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Splash.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojAssemblyReference.cache
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.alunoCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.editarTurma.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.escolaCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.materiaCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Menu.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.periodoCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.profCad.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Properties.Resources.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.registrarTurma.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Splash.resources
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.GenerateResource.cache
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+C:\Users\Angela\Desktop\Cadastro de alunos v.6\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojAssemblyReference.cache
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.alunoCad.resources
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.escolaCad.resources
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.materiaCad.resources
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Menu.resources
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.periodoCad.resources
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.profCad.resources
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Properties.Resources.resources
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.registrarTurma.resources
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Splash.resources
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.GenerateResource.cache
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+C:\Users\Angela\Desktop\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe.config
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro de alunos.exe
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro de alunos.pdb
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\bin\Debug\Cadastro de alunos.exe
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\bin\Debug\Cadastro de alunos.pdb
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro de alunos.csprojResolveAssemblyReference.cache
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.alunoCad.resources
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.escolaCad.resources
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.materiaCad.resources
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Menu.resources
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.periodoCad.resources
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.profCad.resources
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Properties.Resources.resources
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.registrarTurma.resources
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro_de_alunos.Splash.resources
+F:\ETEC - TDS\2° Módulo\DS\Cadastro Escolar\Cadastro de alunos\obj\Debug\Cadastro de alunos.csproj.GenerateResource.Cache
